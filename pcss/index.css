@@ -337,6 +337,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #imTextObject_03_tab0 .cf1 { color: rgb(59, 64, 64); }
 #imTextObject_03_tab0 .cf2 { color: rgb(0, 0, 128); }
 #imTextObject_03_tab0 .fs12lh1-5 { vertical-align: baseline; font-size: 12pt; line-height: 24px; }
+#imTextObject_03_tab0 .fs10lh1-5 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
 #imTextObject_03 .text-container {width: 100%;}#imTextObject_03 .text-container {margin: 0 auto; position: relative;overflow: hidden; display: -ms-grid; display: grid; -ms-grid-template-rows: 1fr; grid-template-rows: 1fr; -ms-grid-template-columns: 1fr; grid-template-columns: 1fr; background-color: rgba(255, 255, 255, 1); border-style: solid;border-color: rgba(169, 169, 169, 1); }
 #imTextObject_03 .text-container .grid-prop.current-tab {z-index: 1; opacity: 1;  }
 #imTextObject_03 .text-container .grid-prop {-ms-grid-column: 1; -ms-grid-row: 1; grid-area: 1 / 1 / 2 / 2; opacity: 0; box-sizing: border-box; position: relative;  }
@@ -351,7 +352,11 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #imObjectImage_04 #imObjectImage_04_container img { width: 100%; }#imObjectImage_04 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_04 #imObjectImage_04_container img { width: 100%; }#imObjectImage_04 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_04 #imObjectImage_04_container img { width: 100%; }#imObjectImage_04 { vertical-align: top; margin: 0 auto; }
+#imObjectImage_04 #imObjectImage_04_container img { width: 100%; }#imObjectImage_04 { vertical-align: top; margin: 0 auto; }
+#imObjectImage_04 #imObjectImage_04_container img { width: 100%; }#imObjectImage_04 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_04 #imObjectImage_04_container img { width: 100%; }#imObjectImage_02 { vertical-align: top; margin: 0 auto; }
+#imObjectImage_02 #imObjectImage_02_container img { width: 100%; }#imObjectImage_02 { vertical-align: top; margin: 0 auto; }
+#imObjectImage_02 #imObjectImage_02_container img { width: 100%; }#imObjectImage_02 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_02 #imObjectImage_02_container img { width: 100%; }#imObjectImage_02 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_02 #imObjectImage_02_container img { width: 100%; }#imObjectImage_02 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_02 #imObjectImage_02_container img { width: 100%; }#imObjectImage_02 { vertical-align: top; margin: 0 auto; }
@@ -441,7 +446,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 7px; left: 1011px; width: 137px; height: 35px; text-align: center; z-index: 1003;  }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 7px; left: 1011px; width: 137px; height: 35px; text-align: center; z-index: 1003; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -657,7 +662,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 4px; left: 559px; width: 161px; height: 82px; text-align: center; z-index: 1004;  }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 4px; left: 559px; width: 161px; height: 82px; text-align: center; z-index: 1004; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -873,7 +878,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 2px; left: 340px; width: 140px; height: 86px; text-align: center; z-index: 1003;  }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 2px; left: 340px; width: 140px; height: 86px; text-align: center; z-index: 1003; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -1087,7 +1092,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 10px; left: 0px; width: 140px; height: 35px; text-align: center; z-index: 1004;  }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 10px; left: 0px; width: 140px; height: 35px; text-align: center; z-index: 1004; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
