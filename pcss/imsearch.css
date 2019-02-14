@@ -1214,7 +1214,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 }
 
 @media (min-width: 1150px) {
-	#imFooter_pluginAppObj_01_wrapper { position: absolute; top: 10px; left: 1000px; width: 137px; height: 35px; text-align: center; z-index: 1002;  }
+	#imFooter_pluginAppObj_01_wrapper { position: absolute; top: 10px; left: 1000px; width: 137px; height: 35px; text-align: center; z-index: 1002; overflow: hidden; }
 	#imFooter_imCell_1 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imFooter_imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imFooter_pluginAppObj_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -1264,7 +1264,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 }
 
 @media (max-width: 1149px) and (min-width: 720px) {
-	#imFooter_pluginAppObj_01_wrapper { position: absolute; top: 12px; left: 562px; width: 143px; height: 35px; text-align: center; z-index: 1002;  }
+	#imFooter_pluginAppObj_01_wrapper { position: absolute; top: 12px; left: 562px; width: 143px; height: 35px; text-align: center; z-index: 1002; overflow: hidden; }
 	#imFooter_imCell_1 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imFooter_imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imFooter_pluginAppObj_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }

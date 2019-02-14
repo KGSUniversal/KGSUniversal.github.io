@@ -8,7 +8,7 @@
 
 $imSettings['general'] = array(
 	'url' => 'https://www.KGSUniversal.de/',
-	'homepage_url' => 'https://www.KGSUniversal.de/home.html',
+	'homepage_url' => 'https://www.KGSUniversal.de/index.html',
 	'icon' => '',
 	'version' => '17.0.12.1',
 	'sitename' => 'KGSoftware',
@@ -41,7 +41,7 @@ $imSettings['password_policy'] = array(
 
 
 $imSettings['admin'] = array(
-	'icon' => 'admin/images/logo_o44mgbex.png',
+	'icon' => 'admin/images/logo_kvfbunnz.png',
 	'theme' => 'orange',
 	'extra-dashboard' => array(),
 	'extra-links' => array()
