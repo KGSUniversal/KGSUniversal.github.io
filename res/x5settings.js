@@ -40,7 +40,7 @@
 		'borderRadius' : '3px 3px 3px 3px',
 		'borderColor' : 'rgba(0, 0, 0, 1) rgba(0, 0, 0, 1) rgba(0, 0, 0, 1) rgba(0, 0, 0, 1)',
 		'textColor' : 'rgba(0, 0, 0, 1)',
-		'fontFamily' : 'Quicksand',
+		'fontFamily' : 'Trebuchet MS',
 		'fontStyle' : 'normal',
 		'fontWeight' : 'normal',
 		'fontSize' : '9pt',
@@ -81,7 +81,10 @@
 	});
 
 	// BreakPoints
-	s.breakPoints.push({ "hash": "ea2f0ee4d5cbb25e1ee6c7c4378fee7b", "name": "Desktop", "start": "max", "end": 0, "fluid": false });
+	s.breakPoints.push({ "hash": "ea2f0ee4d5cbb25e1ee6c7c4378fee7b", "name": "Desktop", "start": "max", "end": 1150, "fluid": false});
+	s.breakPoints.push({ "hash": "d2f9bff7f63c0d6b7c7d55510409c19b", "name": "Breakpoint 1", "start": 1149, "end": 720, "fluid": false});
+	s.breakPoints.push({ "hash": "72e5146e7d399bc2f8a12127e43469f1", "name": "Mobile", "start": 719, "end": 480, "fluid": false});
+	s.breakPoints.push({ "hash": "5ecdcca63de80fd3d4fbb36295d22b7d", "name": "Mobile Fluid", "start": 479, "end": 0, "fluid": true});
 
 	b.push(function() { x.cookielaw.showBanner({id: "cookie-law-message",texts: [
 		{ basepath: "", text: "Diese Seite benutzt Cookies , lesen Sie bitte die Datenschutzhinweise." },

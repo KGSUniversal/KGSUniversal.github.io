@@ -6,7 +6,7 @@
 .alert { padding: 5px 7px; margin: 5px 0 10px 0; border-radius: 5px; border: 1px solid; font: inherit; }
 .alert-red { color: #ff6565; border-color: #ff6565; background-color: #fcc; }
 .alert-green { color: #46543b; border-color: #8da876; background-color: #d5ffb3; }
-.object-generic-error { display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; background-color: black; color: white; font-family: 'Quicksand'; }
+.object-generic-error { display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; background-color: black; color: white; font-family: 'Trebuchet MS'; }
 .object-generic-error div { padding: 5px 20px; }
 .text-right { text-align: right; }
 .text-center { text-align: center; }
@@ -114,12 +114,12 @@
 
 
 /* Page default */
-#imPage { font: normal normal normal 14pt 'Quicksand'; color: rgba(0, 0, 0, 1); background-color: transparent; text-align: left; text-decoration: none; }
+#imPage { font: normal normal normal 14pt 'Trebuchet MS'; color: rgba(0, 0, 0, 1); background-color: transparent; text-align: left; text-decoration: none; }
 .text-tab-content { text-align: left; }
 .text-tab-content hr { border-color: rgba(0, 0, 0, 1); }
 
 /* Page Title */
-#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 20pt 'Quicksand'; color: rgba(37, 58, 88, 1); background-color: transparent; text-align: left; text-decoration: none; }
+#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 20pt 'Trebuchet MS'; color: rgba(37, 58, 88, 1); background-color: transparent; text-align: left; text-decoration: none; }
 #imPgTitle, .imPgTitle { border-width: 1px; border-style: solid; border-color: transparent transparent transparent transparent; }
 #imPgTitle.imTitleMargin, .imPgTitle.imTitleMargin { margin-left: 6px; margin-right: 6px; }
 #imPgTitle, .imPgTitle { display: none; }
@@ -127,7 +127,7 @@
 
 /* Breadcrumb */
 .imBreadcrumb, #imBreadcrumb { display: none; }
-.imBreadcrumb, .imBreadcrumb a, #imBreadcrumb, #imBreadcrumb a { padding-top: 2px; padding-bottom: 2px; font: normal normal normal 10pt 'Quicksand'; color: rgba(169, 169, 169, 1); background-color: transparent; text-align: left; text-decoration: none; }
+.imBreadcrumb, .imBreadcrumb a, #imBreadcrumb, #imBreadcrumb a { padding-top: 2px; padding-bottom: 2px; font: normal normal normal 10pt 'Trebuchet MS'; color: rgba(169, 169, 169, 1); background-color: transparent; text-align: left; text-decoration: none; }
 .imBreadcrumb, #imBreadcrumb { border-width: 1px; border-style: solid; border-color: transparent transparent transparent transparent}
 .imBreadcrumb a, .imBreadcrumb a:link, .imBreadcrumb a:hover, .imBreadcrumb a:visited, .imBreadcrumb a:active { color: rgba(169, 169, 169, 1); display: inline-block; }
 
@@ -144,7 +144,7 @@
 textarea { resize: none; }
 #imPage input[type=button], #imPage input[type=submit], #imPage input[type=reset] {padding: 8px 4px 8px 4px; cursor: pointer; font: inherit; border-style: solid; border-width: 1px 1px 1px 1px; border-color: transparent transparent transparent transparent; background-color: rgba(255, 255, 255, 1); color: rgba(49, 49, 49, 1); border-style: solid; border-width: 1px 1px 1px 1px; border-color: transparent transparent transparent transparent; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;box-sizing: content-box; }
 .search_form input { border-radius: 0; }
-.imNoScript { position: absolute; top: 5px; left: 5%; width: 90%; font: normal normal normal 14pt 'Quicksand'; text-align: left; text-decoration: none; }
+.imNoScript { position: absolute; top: 5px; left: 5%; width: 90%; font: normal normal normal 14pt 'Trebuchet MS'; text-align: left; text-decoration: none; }
 
 /* Tip */
 .imTip { position: absolute; z-index: 100201; margin: 0 auto; padding: 10px; background-color: rgba(54, 101, 138, 1); border-style: solid; border-width: 0px 0px 0px 0px; border-color: transparent transparent transparent transparent; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;}
@@ -152,7 +152,7 @@ textarea { resize: none; }
 .imTip.imTipVisible { opacity: 1; }
 .imTipArrowBorder { border-color: transparent; border-width: 10px; border-style: solid; height: 0; width: 0; position: absolute; }
 .imTipArrow { border-color: rgba(54, 101, 138, 1); border-style: solid; border-width: 10px; height: 0; width: 0; position: absolute; }
-.imTipContent { width: 100%; font: normal normal normal 9pt 'Quicksand'; color: rgba(255, 255, 255, 1); background-color: rgba(54, 101, 138, 1); text-align: center; text-decoration: none;  }
+.imTipContent { width: 100%; font: normal normal normal 9pt 'Trebuchet MS'; color: rgba(255, 255, 255, 1); background-color: rgba(54, 101, 138, 1); text-align: center; text-decoration: none;  }
 .imTipContent img { margin-bottom: 6px; max-width: 100%; }
 .imTip.textLeft .imTipContent { text-align: left; }
 
@@ -175,7 +175,7 @@ textarea { resize: none; }
 
 
 /* Popup */
-#imGuiPopUp { padding: 10px; position: fixed; background-color: rgba(54, 101, 138, 1); border-style: solid; border-width: 1px 1px 1px 1px; border-color: rgba(0, 0, 0, 1) rgba(0, 0, 0, 1) rgba(0, 0, 0, 1) rgba(0, 0, 0, 1); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;font: normal normal normal 9pt 'Quicksand'; color: rgba(0, 0, 0, 1); background-color: rgba(255, 255, 255, 1); text-align: left; text-decoration: none; }
+#imGuiPopUp { padding: 10px; position: fixed; background-color: rgba(54, 101, 138, 1); border-style: solid; border-width: 1px 1px 1px 1px; border-color: rgba(0, 0, 0, 1) rgba(0, 0, 0, 1) rgba(0, 0, 0, 1) rgba(0, 0, 0, 1); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;font: normal normal normal 9pt 'Trebuchet MS'; color: rgba(0, 0, 0, 1); background-color: rgba(255, 255, 255, 1); text-align: left; text-decoration: none; }
 .imGuiButton { margin-top: 20px; margin-left: auto; margin-right: auto; text-align: center;  width: 80px; cursor: pointer; background-color: #444; color: white; padding: 5px; font-size: 14px; font-family: Arial; }
 #imGuiPopUpBg { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(54, 101, 138, 1); }
 .alertbox { cursor: default; text-align: center; padding: 0; }
@@ -209,13 +209,25 @@ textarea { resize: none; }
 .topic-star-fixer-small { height: 16px; }
 .topic-pagination { text-align: center; margin: 7px 0; }
 .variable-star-rating { cursor: pointer; }
-#cookie-law-message {background-color: rgba(40, 40, 40, 1);color: rgba(255, 255, 255, 1);font: normal normal normal 11pt 'Quicksand'; ; padding:16px;}
+#cookie-law-message {background-color: rgba(40, 40, 40, 1);color: rgba(255, 255, 255, 1);font: normal normal normal 11pt 'Trebuchet MS'; ; padding:16px;}
 #cookie-law-message .splashContent { padding:25px;}
 #cookie-law-message .imClose, #cookie-law-message .close-button { top:5px; right:5px; margin:0; cursor: pointer;}
 #cookie-law-message .svgClose {height:20px; width:20px; fill:rgba(255, 255, 255, 1); }
 #cookie-law-message .imCloseInn:hover {opacity: 0.8; }
 #cookie-law-message .message-container .wrapper-content > div { display:inline-block; }
-#media-query-to-js { position: absolute; display: none; }@media all and (min-width:1px) { .media-test { position: absolute; } }
+#media-query-to-js { position: absolute; display: none; }@media (min-width: 1150px) {
+	#media-query-to-js { width: 1150px; }
+}
+@media (max-width: 1149px) and (min-width: 720px) {
+	#media-query-to-js { width: 720px; }
+}
+@media (max-width: 719px) and (min-width: 480px) {
+	#media-query-to-js { width: 480px; }
+}
+@media (max-width: 479px)  {
+	#media-query-to-js { width: 0px; }
+}
+@media all and (min-width:1px) { .media-test { position: absolute; } }
 @supports (display: grid) { .media-test { text-align: justify; } }
 .browser-comp-message { position: fixed; bottom: 0; left: 0; right: 0; z-index: 10600; }
 .browser-comp-message.severity-error {top: 0; background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNiOAMAANUAz5n+TlUAAAAASUVORK5CYII='); }
