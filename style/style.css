@@ -215,19 +215,7 @@ textarea { resize: none; }
 #cookie-law-message .svgClose {height:20px; width:20px; fill:rgba(255, 255, 255, 1); }
 #cookie-law-message .imCloseInn:hover {opacity: 0.8; }
 #cookie-law-message .message-container .wrapper-content > div { display:inline-block; }
-#media-query-to-js { position: absolute; display: none; }@media (min-width: 1150px) {
-	#media-query-to-js { width: 1150px; }
-}
-@media (max-width: 1149px) and (min-width: 720px) {
-	#media-query-to-js { width: 720px; }
-}
-@media (max-width: 719px) and (min-width: 480px) {
-	#media-query-to-js { width: 480px; }
-}
-@media (max-width: 479px)  {
-	#media-query-to-js { width: 0px; }
-}
-@media all and (min-width:1px) { .media-test { position: absolute; } }
+#media-query-to-js { position: absolute; display: none; }@media all and (min-width:1px) { .media-test { position: absolute; } }
 @supports (display: grid) { .media-test { text-align: justify; } }
 .browser-comp-message { position: fixed; bottom: 0; left: 0; right: 0; z-index: 10600; }
 .browser-comp-message.severity-error {top: 0; background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNiOAMAANUAz5n+TlUAAAAASUVORK5CYII='); }
