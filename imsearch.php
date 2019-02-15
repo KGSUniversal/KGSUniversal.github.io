@@ -7,7 +7,7 @@
 		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
 		<meta name="author" content="Klaus Gerlach" />
 		<meta name="generator" content="Incomedia WebSite X5 Start 17.0.12 - www.websitex5.com" />
-		<meta name="viewport" content="width=1150" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
 		<link rel="stylesheet" href="style/reset.css?17-0-12-1" media="screen,print" />
 		<link rel="stylesheet" href="style/print.css?17-0-12-1" media="print" />
@@ -15,7 +15,7 @@
 		<link rel="stylesheet" href="style/template.css?17-0-12-1" media="screen" />
 		<link rel="stylesheet" href="pluginAppObj/imHeader_pluginAppObj_02/custom.css" media="screen, print" />
 		<link rel="stylesheet" href="pluginAppObj/imFooter_pluginAppObj_01/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/imsearch.css?17-0-12-1-636858353848029186" media="screen,print" />
+		<link rel="stylesheet" href="pcss/imsearch.css?17-0-12-1-636858408504193695" media="screen,print" />
 		<script src="res/jquery.js?17-0-12-1"></script>
 		<script src="res/x5engine.js?17-0-12-1" data-files-version="17-0-12-1"></script>
 		<script src="pluginAppObj/imHeader_pluginAppObj_02/main.js"></script>
@@ -25,7 +25,7 @@
 			x5engine.utils.currentPagePath = 'imsearch.php';
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?17-0-12-1-636858353848019250" type="image/png" />
+		<link rel="icon" href="favicon.png?17-0-12-1-636858408504153840" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
