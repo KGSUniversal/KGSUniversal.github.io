@@ -41,7 +41,7 @@ $imSettings['password_policy'] = array(
 
 
 $imSettings['admin'] = array(
-	'icon' => 'admin/images/logo_oyvyie5s.png',
+	'icon' => 'admin/images/logo_reisbf7i.png',
 	'theme' => 'orange',
 	'extra-dashboard' => array(),
 	'extra-links' => array()
