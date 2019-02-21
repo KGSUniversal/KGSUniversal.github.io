@@ -53,12 +53,7 @@
 #imHeader_imCellStyleGraphics_13 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imHeader_imCellStyleBorders_13 { position: absolute; top: 0px; bottom: 0px; }
 #imHeader_imObjectImage_13 { vertical-align: top; margin: 0 auto; }
-#imHeader_imObjectImage_13 #imHeader_imObjectImage_13_container img { width: 100%; }#imHeader_imCell_12 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
-#imHeader_imObjectImage_12 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imHeader_imCellStyleGraphics_12 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
-#imHeader_imCellStyleBorders_12 { position: absolute; top: 0px; bottom: 0px; }
-#imHeader_imObjectImage_12 { vertical-align: top; margin: 0 auto; }
-#imHeader_imObjectImage_12 #imHeader_imObjectImage_12_container img { width: 100%; }#imHeader_imCell_1 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
+#imHeader_imObjectImage_13 #imHeader_imObjectImage_13_container img { width: 100%; }#imHeader_imCell_1 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imHeader_imObjectTitle_01 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imHeader_imCellStyleGraphics_1 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imHeader_imCellStyleBorders_1 { position: absolute; top: 0px; bottom: 0px; }
@@ -71,59 +66,6 @@
 #imHeader_pluginAppObj_02 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imHeader_imCellStyleGraphics_2 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imHeader_imCellStyleBorders_2 { position: absolute; top: 0px; bottom: 0px; }
-#imHeader_imCell_10 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
-#imHeader_pluginAppObj_10 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imHeader_imCellStyleGraphics_10 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
-#imHeader_imCellStyleBorders_10 { position: absolute; top: 0px; bottom: 0px; }
-#imHeader_imCell_11 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
-#imHeader_imTextObject_11 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imHeader_imCellStyleGraphics_11 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
-#imHeader_imCellStyleBorders_11 { position: absolute; top: 0px; bottom: 0px; }
-#imHeader_imTextObject_11 { width: 100%; }
-#imHeader_imTextObject_11 { font-style: normal; font-weight: normal; line-height: 28px; }
-#imHeader_imTextObject_11_tab0 div { line-height: 28px; }
-#imHeader_imTextObject_11_tab0 .imHeading1 { line-height: 56px; }
-#imHeader_imTextObject_11_tab0 .imHeading2 { line-height: 42px; }
-#imHeader_imTextObject_11_tab0 .imHeading3 { line-height: 33px; }
-#imHeader_imTextObject_11_tab0 .imHeading4 { line-height: 28px; }
-#imHeader_imTextObject_11_tab0 .imHeading5 { line-height: 23px; }
-#imHeader_imTextObject_11_tab0 .imHeading6 { line-height: 19px; }
-#imHeader_imTextObject_11_tab0 ul { list-style: disc; margin: 0; padding: 0; overflow: hidden; }
-#imHeader_imTextObject_11_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
-#imHeader_imTextObject_11_tab0 ul ul ul { list-style: circle; }
-#imHeader_imTextObject_11_tab0 ul li { margin: 0 0 0 22px; padding: 0px; }
-#imHeader_imTextObject_11_tab0 ol { list-style: decimal; margin: 0; padding: 0; }
-#imHeader_imTextObject_11_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
-#imHeader_imTextObject_11_tab0 ol li { margin: 0 0 0 22px; padding: 0px; }
-#imHeader_imTextObject_11_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
-#imHeader_imTextObject_11_tab0 table { border: none; padding: 0; border-collapse: collapse; }
-#imHeader_imTextObject_11_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
-#imHeader_imTextObject_11_tab0 p { margin: 0; padding: 0; }
-#imHeader_imTextObject_11_tab0 .inline-block { display: inline-block; }
-#imHeader_imTextObject_11_tab0 sup { vertical-align: super; font-size: smaller; }
-#imHeader_imTextObject_11_tab0 sub { vertical-align: sub; font-size: smaller; }
-#imHeader_imTextObject_11_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
-#imHeader_imTextObject_11_tab0 .fleft { float: left; vertical-align: baseline;}
-#imHeader_imTextObject_11_tab0 .fright { float: right; vertical-align: baseline;}
-#imHeader_imTextObject_11_tab0 img.fleft { margin-right: 15px; }
-#imHeader_imTextObject_11_tab0 img.fright { margin-left: 15px; }
-#imHeader_imTextObject_11_tab0 .imTALeft { text-align: left; }
-#imHeader_imTextObject_11_tab0 .imTARight { text-align: right; }
-#imHeader_imTextObject_11_tab0 .imTACenter { text-align: center; }
-#imHeader_imTextObject_11_tab0 .imTAJustify { text-align: justify; }
-#imHeader_imTextObject_11_tab0 .imUl { text-decoration: underline; }
-#imHeader_imTextObject_11_tab0 .imStrike { text-decoration: line-through; }
-#imHeader_imTextObject_11_tab0 .imUlStrike { text-decoration: underline line-through; }
-#imHeader_imTextObject_11_tab0 .imVt { vertical-align: top; }
-#imHeader_imTextObject_11_tab0 .imVc { vertical-align: middle; }
-#imHeader_imTextObject_11_tab0 .imVb { vertical-align: bottom; }
-#imHeader_imTextObject_11_tab0 hr { border-width: 1px 0 0 0; border-style: solid; }
-#imHeader_imTextObject_11_tab0 .fs16lh1-5 { vertical-align: baseline; font-size: 16pt; line-height: 32px; }
-#imHeader_imTextObject_11_tab0 .cf1 { color: rgb(255, 255, 255); }
-#imHeader_imTextObject_11 .text-container {width: 100%;}#imHeader_imTextObject_11 .text-container {margin: 0 auto; position: relative;overflow: hidden; display: -ms-grid; display: grid; -ms-grid-template-rows: 1fr; grid-template-rows: 1fr; -ms-grid-template-columns: 1fr; grid-template-columns: 1fr; background-color: rgba(255, 255, 255, 1); border-style: solid;border-color: rgba(169, 169, 169, 1); }
-#imHeader_imTextObject_11 .text-container .grid-prop.current-tab {z-index: 1; opacity: 1;  }
-#imHeader_imTextObject_11 .text-container .grid-prop {-ms-grid-column: 1; -ms-grid-row: 1; grid-area: 1 / 1 / 2 / 2; opacity: 0; box-sizing: border-box; position: relative;  }
-#imHeader_imTextObject_11 .text-container .text-tab-content.detach {position: absolute; top: 0; left: 0; width: 100%; display: none; }
 #imHeader_imCell_14 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imHeader_imMenuObject_14 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 103; }
 #imHeader_imCellStyleGraphics_14 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
@@ -363,13 +305,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	#imHeader_imObjectImage_13 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCellStyleGraphics_13 { left: 0px; right: 0px; }
 	#imHeader_imCellStyleBorders_13 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imObjectImage_12_wrapper { position: absolute; top: 48px; left: 896px; width: 255px; height: 203px; text-align: center; z-index: 1003; overflow: hidden; }
-	#imHeader_imObjectImage_12_wrapper img {-webkit-clip-path: inset(0 0 20.392% 0);clip-path: inset(0 0 20.392% 0);}#imHeader_imCell_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_12 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imObjectImage_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_12 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_12 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 253px; left: 35px; width: 215px; height: 47px; text-align: center; z-index: 1005;  }
+	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 253px; left: 35px; width: 215px; height: 47px; text-align: center; z-index: 1004;  }
 	#imHeader_imCell_1 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imObjectTitle_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -382,26 +318,13 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 7px; left: 1011px; width: 137px; height: 35px; text-align: center; z-index: 1004; overflow: hidden; }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 7px; left: 1011px; width: 137px; height: 35px; text-align: center; z-index: 1003; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCellStyleGraphics_2 { left: 0px; right: 0px; }
 	#imHeader_imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_pluginAppObj_10_wrapper { position: absolute; top: 94px; left: 920px; width: 209px; height: 134px; text-align: center; z-index: 1006; overflow: hidden; }
-	#imHeader_imCell_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_10 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_pluginAppObj_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_10 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_10 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imTextObject_11_wrapper { position: absolute; top: 60px; left: 919px; width: 150px; height: 29px; text-align: center; z-index: 1007; overflow: hidden; }
-	#imHeader_imCell_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_11 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imTextObject_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_11 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_11 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imTextObject_11 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 251px; left: 397px; width: 752px; height: 50px; text-align: center; z-index: 1008;  }
+	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 251px; left: 397px; width: 752px; height: 50px; text-align: center; z-index: 1005;  }
 	#imHeader_imCell_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_14 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imMenuObject_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -495,13 +418,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	#imHeader_imObjectImage_13 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCellStyleGraphics_13 { left: 0px; right: 0px; }
 	#imHeader_imCellStyleBorders_13 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imObjectImage_12_wrapper { position: absolute; top: 47px; left: 397px; width: 323px; height: 203px; text-align: center; z-index: 1003; overflow: hidden; }
-	#imHeader_imObjectImage_12_wrapper img {-webkit-clip-path: inset(0 0 37.152% 0);clip-path: inset(0 0 37.152% 0);}#imHeader_imCell_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_12 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imObjectImage_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_12 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_12 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 250px; left: 40px; width: 183px; height: 137px; text-align: center; z-index: 1004;  }
+	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 250px; left: 40px; width: 183px; height: 137px; text-align: center; z-index: 1003;  }
 	#imHeader_imCell_1 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imObjectTitle_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -514,26 +431,13 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 4px; left: 559px; width: 161px; height: 82px; text-align: center; z-index: 1005; overflow: hidden; }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 4px; left: 559px; width: 161px; height: 82px; text-align: center; z-index: 1004; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCellStyleGraphics_2 { left: 0px; right: 0px; }
 	#imHeader_imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_pluginAppObj_10_wrapper { position: absolute; top: 99px; left: 430px; width: 265px; height: 134px; text-align: center; z-index: 1006; overflow: hidden; }
-	#imHeader_imCell_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_10 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_pluginAppObj_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_10 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_10 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imTextObject_11_wrapper { position: absolute; top: 62px; left: 430px; width: 190px; height: 60px; text-align: center; z-index: 1007; overflow: hidden; }
-	#imHeader_imCell_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_11 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imTextObject_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_11 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_11 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imTextObject_11 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 250px; left: 399px; width: 321px; height: 100px; text-align: center; z-index: 1008;  }
+	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 250px; left: 399px; width: 321px; height: 100px; text-align: center; z-index: 1005;  }
 	#imHeader_imCell_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_14 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imMenuObject_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -627,13 +531,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	#imHeader_imObjectImage_13 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCellStyleGraphics_13 { left: 0px; right: 0px; }
 	#imHeader_imCellStyleBorders_13 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imObjectImage_12_wrapper { position: absolute; top: 47px; left: 256px; width: 224px; height: 203px; text-align: center; z-index: 1003; overflow: hidden; }
-	#imHeader_imObjectImage_12_wrapper img {-webkit-clip-path: inset(0 0 9.375% 0);clip-path: inset(0 0 9.375% 0);}#imHeader_imCell_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_12 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imObjectImage_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_12 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_12 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 248px; left: 5px; width: 185px; height: 111px; text-align: center; z-index: 1007;  }
+	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 248px; left: 5px; width: 185px; height: 111px; text-align: center; z-index: 1004;  }
 	#imHeader_imCell_1 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imObjectTitle_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -646,26 +544,13 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 2px; left: 340px; width: 140px; height: 86px; text-align: center; z-index: 1004; overflow: hidden; }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 2px; left: 340px; width: 140px; height: 86px; text-align: center; z-index: 1003; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCellStyleGraphics_2 { left: 0px; right: 0px; }
 	#imHeader_imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_pluginAppObj_10_wrapper { position: absolute; top: 95px; left: 265px; width: 209px; height: 134px; text-align: center; z-index: 1005; overflow: hidden; }
-	#imHeader_imCell_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_10 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_pluginAppObj_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_10 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_10 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imTextObject_11_wrapper { position: absolute; top: 58px; left: 266px; width: 150px; height: 60px; text-align: center; z-index: 1006; overflow: hidden; }
-	#imHeader_imCell_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_11 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imTextObject_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCellStyleGraphics_11 { left: 0px; right: 0px; }
-	#imHeader_imCellStyleBorders_11 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imHeader_imTextObject_11 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 250px; left: 257px; width: 223px; height: 200px; text-align: center; z-index: 1008;  }
+	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 250px; left: 257px; width: 223px; height: 200px; text-align: center; z-index: 1005;  }
 	#imHeader_imCell_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_14 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imMenuObject_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
@@ -758,12 +643,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	#imHeader_imObjectImage_13 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_13 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imCellStyleGraphics_13 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imHeader_imObjectImage_12_wrapper { position: absolute; top: 64px; left: 0px; width: 312px; height: 185px; text-align: center; z-index: 1003; overflow: hidden; }
-	#imHeader_imObjectImage_12_wrapper img {-webkit-clip-path: inset(0 0 40.705% 0);clip-path: inset(0 0 40.705% 0);}#imHeader_imCell_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imObjectImage_12 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_12 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imCellStyleGraphics_12 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 381px; left: 0px; width: 151px; height: 51px; text-align: center; z-index: 1004;  }
+	#imHeader_imObjectTitle_01_wrapper { position: absolute; top: 381px; left: 0px; width: 151px; height: 51px; text-align: center; z-index: 1003;  }
 	#imHeader_imCell_1 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imObjectTitle_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
@@ -775,23 +655,12 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	margin-top: 0px;
 	margin-bottom: 0px;
 	 }
-	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 10px; left: 0px; width: 140px; height: 35px; text-align: center; z-index: 1005; overflow: hidden; }
+	#imHeader_pluginAppObj_02_wrapper { position: absolute; top: 10px; left: 0px; width: 140px; height: 35px; text-align: center; z-index: 1004; overflow: hidden; }
 	#imHeader_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imHeader_imCellStyleGraphics_2 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imHeader_pluginAppObj_10_wrapper { position: absolute; top: 109px; left: 0px; width: 209px; height: 134px; text-align: center; z-index: 1006; overflow: hidden; }
-	#imHeader_imCell_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_pluginAppObj_10 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_10 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imCellStyleGraphics_10 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imHeader_imTextObject_11_wrapper { position: absolute; top: 70px; left: 0px; width: 150px; height: 60px; text-align: center; z-index: 1007; overflow: hidden; }
-	#imHeader_imCell_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imTextObject_11 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imHeader_imCell_11 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imHeader_imCellStyleGraphics_11 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imHeader_imTextObject_11 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 248px; left: 0px; width: 313px; height: 100px; text-align: center; z-index: 1008;  }
+	#imHeader_imMenuObject_14_wrapper { position: absolute; top: 248px; left: 0px; width: 313px; height: 100px; text-align: center; z-index: 1005;  }
 	#imHeader_imCell_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imMenuObject_14 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imHeader_imCell_14 { -ms-grid-rows: 100%; grid-template-rows: 100%; }

@@ -15,7 +15,7 @@
 		<link rel="stylesheet" href="style/template.css?17-0-12-1" media="screen" />
 		<link rel="stylesheet" href="pluginAppObj/imHeader_pluginAppObj_02/custom.css" media="screen, print" />
 		<link rel="stylesheet" href="pluginAppObj/imFooter_pluginAppObj_01/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/imsearch.css?17-0-12-1-636858408504193695" media="screen,print" />
+		<link rel="stylesheet" href="pcss/imsearch.css?17-0-12-1-636863341527904388" media="screen,print" />
 		<script src="res/jquery.js?17-0-12-1"></script>
 		<script src="res/x5engine.js?17-0-12-1" data-files-version="17-0-12-1"></script>
 		<script src="pluginAppObj/imHeader_pluginAppObj_02/main.js"></script>
@@ -25,7 +25,7 @@
 			x5engine.utils.currentPagePath = 'imsearch.php';
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?17-0-12-1-636858408504153840" type="image/png" />
+		<link rel="icon" href="favicon.png?17-0-12-1-636863341527904388" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -36,7 +36,6 @@
 					<header id="imHeader">
 						<h1 class="imHidden">Suchen - KGSoftware</h1>
 						<div id="imHeaderObjects"><div id="imHeader_imObjectImage_13_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_13"><div id="imHeader_imObjectImage_13_container"><img src="images/GT1_menu_bg_black40-3-.png" title="" alt="" />
-</div></div></div><div id="imHeader_imObjectImage_12_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_12"><div id="imHeader_imObjectImage_12_container"><img src="images/GT1_menu_bg_black40-1--1-.png" title="" alt="" />
 </div></div></div><div id="imHeader_imObjectTitle_01_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectTitle_01"><span id ="imHeader_imObjectTitle_01_text" >KGSoftware</span></div></div><div id="imHeader_pluginAppObj_02_wrapper" class="template-object-wrapper"><div id="imHeader_pluginAppObj_02">
             <div id="soc_imHeader_pluginAppObj_02">
                 <div class="wrapper horizontal flat none">
@@ -47,17 +46,7 @@
                 <script type="text/javascript">
                     socialicons_imHeader_pluginAppObj_02();
                 </script>
-        </div></div><div id="imHeader_pluginAppObj_10_wrapper" class="template-object-wrapper"><div id="imHeader_pluginAppObj_10">
-        <div id="imLogin" style="width: 100%; max-width: 200px; display: inline-block;">    <form method="post" action="imlogin.php" onsubmit="_jq(this).attr('action', x5engine.settings.currentPath + 'imlogin.php'); return (x5engine.utils.isOnline() || !x5engine.utils.showOfflineMessage(x5engine.l10n.get('blog_offline_message')));">        <div class="imLoginBlock" style="width: 100%;">            <label for="imUname"><span style="font-weight: normal;font-style: normal;font-family:Quicksand;font-size:10pt;color: rgba(255, 255, 255, 1)">Username:</span></label><br />            <input type="text" name="imUname" id="imUname" style="box-sizing: border-box;font-weight: normal;font-style: normal;border: 1px solid #ccc;font-family:Quicksand;font-size:10pt;background-color: rgba(54, 101, 138, 1);color: rgba(75, 158, 181, 1);width: 100%;max-width: 200px"><br />        </div>        <div class="imLoginBlock" style="width: 100%;">            <label for="imPwd"><span style="font-weight: normal;font-style: normal;font-family:Quicksand;font-size:10pt;color: rgba(255, 255, 255, 1)">Password:</span></label><br />            <input type="password" name="imPwd" id="imPwd" style="box-sizing: border-box;font-weight: normal;font-style: normal;border: 1px solid #ccc;font-family:Quicksand;font-size:10pt;background-color: rgba(54, 101, 138, 1);color: rgba(75, 158, 181, 1);width: 100%;max-width: 200px"><br />        </div>        <div class="imLoginBlock" style="width: 100%; margin-top: 5px; text-align: center">            <input type="submit" value="Log in" class="imLoginSubmit" style="font-weight: normal;font-style: normal;font-family:Quicksand;font-size:10pt;border: 1px solid #ccc;background-color: rgba(255, 255, 255, 1);color: rgba(0, 0, 0, 1)">        </div>    </form></div>
-       </div></div><div id="imHeader_imTextObject_11_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_11">
-	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_11_tab0" style="opacity: 1; ">
-		<div class="text-inner">
-			<span class="fs16lh1-5 cf1">ANMELDUNG</span>
-		</div>
-	</div>
-
-</div>
-</div><div id="imHeader_imMenuObject_14_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imHeader_imMenuObject_14"><div id="imHeader_imMenuObject_14_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
+        </div></div><div id="imHeader_imMenuObject_14_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imHeader_imMenuObject_14"><div id="imHeader_imMenuObject_14_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
 	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
 		<div class="hamburger-menu-close-button"><span>&times;</span></div>
 	</div>
